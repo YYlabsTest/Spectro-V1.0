@@ -1,4 +1,4 @@
 # Spectro-app
 
 
-the app is for reflection spectrometer.
+the V1.0 is for reflection spectrometer.
